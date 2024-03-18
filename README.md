@@ -4,5 +4,5 @@
 This is a snake water gun game.
 <br>
 There are two files.<br>
- 1. Sinpler just using basic python.<br>
+ 1. Simpler just using basic python.<br>
  2.Using OOPs.
